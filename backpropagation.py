@@ -1,8 +1,3 @@
-#Name : Raghav Malawat
-#USN  : 1PE16IS080
-
-#CODE
-
 from math import exp
 from random import seed
 from random import random
