@@ -1,7 +1,3 @@
-#Name : Raghav Malawat
-#USn  : 1PE16IS080
-#Program 10
-
 from sklearn.neighbors import KNeighborsRegressor
 import matplotlib.pyplot as plt
 from math import pi, ceil
