@@ -1,8 +1,3 @@
-#Name : Raghav Malawat
-#USN  : 1PE16IS080
-
-#CODE
-
 import numpy as np
 from csv import reader
 from math import log2
