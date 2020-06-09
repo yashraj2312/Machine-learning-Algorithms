@@ -1,7 +1,3 @@
-#Raghav Malawat
-#1PE16IS080
-#Program No 7
-
 import bayespy as bp
 import numpy as np
 import csv
