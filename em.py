@@ -1,3 +1,5 @@
+#code by Yash Raj
+
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.mixture import GaussianMixture
