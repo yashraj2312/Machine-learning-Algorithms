@@ -1,3 +1,4 @@
+#code by Yash Raj
 from math import exp
 from random import seed
 from random import random
